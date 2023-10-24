@@ -8,4 +8,4 @@ The goal was to create a device that would save time in the morning by providing
 3. Has a low power mode where the display dims and the sensors poll at a slower rate to save energy consumption
 
 ## System Design
-![Overview of device](Looking Glass system v4.png)
+![Overview of system](https://github.com/ric-rhee/looking_glass/blob/main/Looking%20Glass%20system%20v4.png)
